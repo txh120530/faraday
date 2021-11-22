@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/faraday-code-test/static/css/main.795ed2d6.chunk.css",
+    "main.js": "/faraday-code-test/static/js/main.74a5e6be.chunk.js",
+    "main.js.map": "/faraday-code-test/static/js/main.74a5e6be.chunk.js.map",
+    "runtime-main.js": "/faraday-code-test/static/js/runtime-main.84212d8b.js",
+    "runtime-main.js.map": "/faraday-code-test/static/js/runtime-main.84212d8b.js.map",
+    "static/js/2.550d301c.chunk.js": "/faraday-code-test/static/js/2.550d301c.chunk.js",
+    "static/js/2.550d301c.chunk.js.map": "/faraday-code-test/static/js/2.550d301c.chunk.js.map",
+    "index.html": "/faraday-code-test/index.html",
+    "static/css/main.795ed2d6.chunk.css.map": "/faraday-code-test/static/css/main.795ed2d6.chunk.css.map",
+    "static/js/2.550d301c.chunk.js.LICENSE.txt": "/faraday-code-test/static/js/2.550d301c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84212d8b.js",
+    "static/js/2.550d301c.chunk.js",
+    "static/css/main.795ed2d6.chunk.css",
+    "static/js/main.74a5e6be.chunk.js"
+  ]
+}
